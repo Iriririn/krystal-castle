@@ -1,10 +1,7 @@
 <engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/GameInterace.uss?fileID=7433441132597879392&amp;guid=379b6118d4beb6f4b9fd9c24f14fdf86&amp;type=3#GameInterace" />
     <engine:VisualElement style="flex-grow: 1;">
-        <engine:Tab label="Tab" />
+        <engine:IntegerField label="LIFE" value="42" name="LifeBar" password="false" style="-unity-font-style: bold; font-size: 15px; -unity-text-outline-width: 1px; -unity-text-outline-color: rgba(255, 255, 255, 0); -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;); width: 40%; border-left-color: rgba(209, 52, 52, 0); border-right-color: rgba(209, 52, 52, 0); border-top-color: rgba(209, 52, 52, 0); border-bottom-color: rgba(209, 52, 52, 0); border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0; top: 2%; left: 2%;" />
     </engine:VisualElement>
-    <engine:Label text="Label" />
-    <engine:IntegerField label="Integer Field" value="42" />
-    <engine:Label text="Label" />
-    <engine:ProgressBar value="22" title="my-progress" style="align-content: flex-end; bottom: 0; left: auto; justify-content: flex-end;" />
+    <engine:ProgressBar value="22" title="GUILD TOWN" name="ProgressBar" />
 </engine:UXML>

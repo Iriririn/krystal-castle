@@ -1,9 +1,13 @@
 <engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=c57a99adcf113eb46827b5eb9d6bb271&amp;type=3#MainMenuStyle" />
-    <engine:VisualElement name="Container" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Menu%20Assets/HomeScreen.png?fileID=2800000&amp;guid=285099b6df51fc74cab245efe3cbc23e&amp;type=3#HomeScreen&quot;);">
-        <engine:Label text="Krystal Castle" name="GameTitle" display-tooltip-when-elided="false" class="header" style="-unity-text-align: lower-center; height: 23px; align-items: center; top: 30px;" />
-        <engine:Button text="Start" name="Start" class="button" style="top: 10%;" />
-        <engine:Button text="Settings" name="Settings" double-click-selects-word="false" class="button" style="top: 15%;" />
-        <engine:Button text="Back" name="Back" class="button" style="top: 20%;" />
+    <engine:VisualElement name="Panel" class="panel" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Menu%20Assets/HomeScreen.png?fileID=2800000&amp;guid=285099b6df51fc74cab245efe3cbc23e&amp;type=3#HomeScreen&quot;); justify-content: flex-start; align-items: center;">
+        <engine:VisualElement name="Container" class="menu" style="flex-grow: 1; height: 960px; width: 364px; flex-wrap: wrap; align-self: flex-start; align-content: flex-start; margin-top: 161px; margin-right: 161px; margin-bottom: 161px; margin-left: 161px; flex-shrink: 1; align-items: center; overflow: visible; visibility: visible; justify-content: flex-start;">
+            <engine:Label text="Krystal Castle" name="GameTitle" display-tooltip-when-elided="false" class="header" style="-unity-text-align: lower-center; height: auto; align-items: center; top: auto; left: auto; align-self: center; font-size: 42px; text-shadow: 0.5px 0 1.1px rgba(255, 193, 93, 0); width: auto;" />
+            <engine:VisualElement name="ButtonContainer" class="menu" style="flex-grow: 1;">
+                <engine:Button text="Start" name="Start" class="button" style="top: auto; align-items: center;" />
+                <engine:Button text="Load Game" name="LoadGame" class="button" style="top: auto; align-items: center;" />
+                <engine:Button text="Exit" name="ExitButton" double-click-selects-word="false" class="button" style="top: auto; align-items: center;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
     </engine:VisualElement>
 </engine:UXML>

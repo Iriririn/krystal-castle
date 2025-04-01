@@ -26,3 +26,38 @@
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+
+.panel {
+}
+
+.menu {
+}
+
+.unity-button {
+    flex-grow: initial;
+    margin-top: 53px;
+    margin-right: 53px;
+    margin-bottom: 55px;
+    margin-left: 53px;
+    padding-top: -55px;
+    padding-right: -55px;
+    padding-bottom: -55px;
+    padding-left: -55px;
+    align-self: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    border-bottom-left-radius: 22px;
+    -unity-font-definition: url("project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#LegacyRuntime");
+    -unity-font-style: bold;
+    font-size: 27px;
+    -unity-text-align: middle-center;
+    flex-shrink: 1;
+    align-content: center;
+}
