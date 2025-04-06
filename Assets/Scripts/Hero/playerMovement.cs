@@ -8,6 +8,7 @@ public class playerMovement : MonoBehaviour
 
 
     [Header("Movement")]
+    public InputActionReference move;
     [SerializeField] private float moveSpeed = 5f;
     float horizontalMovement;
 
@@ -59,6 +60,7 @@ public class playerMovement : MonoBehaviour
     public void Move(InputAction.CallbackContext context)
     {
         horizontalMovement = context.ReadValue<Vector2>().x;
+        
     } 
 
     public void Jump(InputAction.CallbackContext context)

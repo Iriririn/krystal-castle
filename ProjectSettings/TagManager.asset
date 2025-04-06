@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Placeholder 1
   - 
   - 
   - 
@@ -40,6 +40,18 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Trees Background
+    uniqueID: 799684369
+    locked: 0
+  - name: Trees Midground
+    uniqueID: 1492325043
+    locked: 0
+  - name: Ground
+    uniqueID: 42040527
+    locked: 0
+  - name: Player
+    uniqueID: 1340335109
     locked: 0
   m_RenderingLayers:
   - Default
