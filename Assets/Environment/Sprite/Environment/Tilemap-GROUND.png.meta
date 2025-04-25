@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 385273753c0ee8b46aa0267abd6087a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5254636044299177568
+    second: Tilemap-GROUND_0
+  - first:
+      213: -4571695149787678885
+    second: Tilemap-GROUND_1
+  - first:
+      213: 7187796325089992377
+    second: Tilemap-GROUND_2
+  - first:
+      213: -4869495065465411437
+    second: Tilemap-GROUND_3
+  - first:
+      213: -891354067336038064
+    second: Tilemap-GROUND_4
+  - first:
+      213: -1828580942212044673
+    second: Tilemap-GROUND_5
+  - first:
+      213: -4422397101525183290
+    second: Tilemap-GROUND_6
+  - first:
+      213: -6295124800781004658
+    second: Tilemap-GROUND_7
+  - first:
+      213: -746592923469920153
+    second: Tilemap-GROUND_8
+  - first:
+      213: 425544952151156370
+    second: Tilemap-GROUND_9
+  - first:
+      213: 1218217965487056709
+    second: Tilemap-GROUND_10
+  - first:
+      213: 3410935778397709303
+    second: Tilemap-GROUND_11
+  - first:
+      213: 8461672899062930856
+    second: Tilemap-GROUND_12
+  - first:
+      213: 7961731528579418464
+    second: Tilemap-GROUND_13
+  - first:
+      213: -5876363696909897762
+    second: Tilemap-GROUND_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap-GROUND_TL
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 237
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a17593ab58c317b0800000000000000
+      internalID: -5254636044299177568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_TC
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 238
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57778fab731e80c0800000000000000
+      internalID: -4571695149787678885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_TR
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 237
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bed8d2dcae20c360800000000000000
+      internalID: 7187796325089992377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_TCV
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 237
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398aa63a9041c6cb0800000000000000
+      internalID: -4869495065465411437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_BL
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 153
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f557c23641a3f0800000000000000
+      internalID: -891354067336038064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_BC
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 153
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e66042539f96e0800000000000000
+      internalID: -1828580942212044673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_BR
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 153
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4dfdb544d70a2c0800000000000000
+      internalID: -4422397101525183290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_BIL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8052b0c85933a8a0800000000000000
+      internalID: -6295124800781004658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_PSL
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 83
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76841c411b193a5f0800000000000000
+      internalID: -746592923469920153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_PC
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2962eec11e6d7e500800000000000000
+      internalID: 425544952151156370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_PSR
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 83
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547ead309caf7e010800000000000000
+      internalID: 1218217965487056709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_BIR
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 67
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e01fb404165f20800000000000000
+      internalID: 3410935778397709303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_PSLV
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad123a7ba6ed6570800000000000000
+      internalID: 8461672899062930856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_PCV
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069010664a0cd7e60800000000000000
+      internalID: 7961731528579418464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap-GROUND_PSRV
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf2faa1a56f27ea0800000000000000
+      internalID: -5876363696909897762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf4b6693c7b46ae4e91ddd8d816176f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tilemap-GROUND_BC: -1828580942212044673
+      Tilemap-GROUND_BIL: -6295124800781004658
+      Tilemap-GROUND_BIR: 3410935778397709303
+      Tilemap-GROUND_BL: -891354067336038064
+      Tilemap-GROUND_BR: -4422397101525183290
+      Tilemap-GROUND_PC: 425544952151156370
+      Tilemap-GROUND_PCV: 7961731528579418464
+      Tilemap-GROUND_PSL: -746592923469920153
+      Tilemap-GROUND_PSLV: 8461672899062930856
+      Tilemap-GROUND_PSR: 1218217965487056709
+      Tilemap-GROUND_PSRV: -5876363696909897762
+      Tilemap-GROUND_TC: -4571695149787678885
+      Tilemap-GROUND_TCV: -4869495065465411437
+      Tilemap-GROUND_TL: -5254636044299177568
+      Tilemap-GROUND_TR: 7187796325089992377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

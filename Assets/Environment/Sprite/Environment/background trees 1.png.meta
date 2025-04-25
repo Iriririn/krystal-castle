@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6df35b3468b598043b1c4874d46f5f17
+guid: 5b3917e2538cb044892ac3facdc87e1e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 154020552168291781
-    second: midground trees_0
+      213: -287884336370738164
+    second: background trees 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: midground trees_0
+      name: background trees 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 800
-        height: 1662
+        height: 1694
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5cdb91c40e0332200800000000000000
-      internalID: 154020552168291781
+      spriteID: c0c193aa8ba310cf0800000000000000
+      internalID: -287884336370738164
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background trees 1_0: -287884336370738164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

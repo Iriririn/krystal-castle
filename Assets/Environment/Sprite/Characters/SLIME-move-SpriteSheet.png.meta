@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 6df35b3468b598043b1c4874d46f5f17
+guid: 2feeb9a3bd21ce942b67de056e6d8637
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 154020552168291781
-    second: midground trees_0
+      213: -4000907626427129168
+    second: SLIME-move-SpriteSheet_0
+  - first:
+      213: 7847719614544089561
+    second: SLIME-move-SpriteSheet_1
+  - first:
+      213: -3102434440482349143
+    second: SLIME-move-SpriteSheet_2
+  - first:
+      213: -2286519451003618477
+    second: SLIME-move-SpriteSheet_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: midground trees_0
+      name: SLIME-move-SpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 800
-        height: 1662
+        width: 43
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5cdb91c40e0332200800000000000000
-      internalID: 154020552168291781
+      spriteID: 0b2e8a326bbe978c0800000000000000
+      internalID: -4000907626427129168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME-move-SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d114c11963b8ec60800000000000000
+      internalID: 7847719614544089561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME-move-SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af9c145050f1f4d0800000000000000
+      internalID: -3102434440482349143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME-move-SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b78ee7ca6a440e0800000000000000
+      internalID: -2286519451003618477
       vertices: []
       indices: 
       edges: []
