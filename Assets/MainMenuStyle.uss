@@ -25,12 +25,20 @@
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
+    -unity-font-definition: url("project://database/Assets/Menu%20Assets/Fonts/FantaisieArtistique.ttf?fileID=12800000&guid=408f9cf6fcda51e41a1e11df03ddc8c5&type=3#FantaisieArtistique");
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
 }
 
 .panel {
 }
 
 .menu {
+    background-image: url("project://database/Assets/Menu%20Assets/Sprites/Container_Sprite_Test.png?fileID=2800000&guid=4281b5dcf02888243af1d499611f756b&type=3#Container_Sprite_Test");
+    background-repeat: no-repeat no-repeat;
+    background-size: 99% 96%;
 }
 
 .unity-button {
@@ -54,10 +62,13 @@
     border-top-right-radius: 22px;
     border-bottom-right-radius: 22px;
     border-bottom-left-radius: 22px;
-    -unity-font-definition: url("project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#LegacyRuntime");
+    -unity-font-definition: url("project://database/Assets/Menu%20Assets/Fonts/AlmendraSC-Regular.ttf?fileID=12800000&guid=73ecd97af53c9d5448cda0cf93d6e40c&type=3#AlmendraSC-Regular");
     -unity-font-style: bold;
     font-size: 27px;
     -unity-text-align: middle-center;
     flex-shrink: 1;
     align-content: center;
+    color: rgb(229, 204, 204);
+    background-image: url("project://database/Assets/Menu%20Assets/Sprites/Heading_Sprite.png?fileID=2800000&guid=2803237acc7c20647a063b57a69057d9&type=3#Heading_Sprite");
+    text-shadow: 2px 2.2px 0 rgb(39, 17, 16);
 }
