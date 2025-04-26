@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 58dc2342a9969994cbfe8291e43b0c0e
+guid: f741df4b3d910974b91703658b92eaca
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6810463077589642200
-    second: Spawner_0
+      213: -5949674933755371878
+    second: SLIME-idle-SpriteSheet_0
+  - first:
+      213: 2648716374801092222
+    second: SLIME-idle-SpriteSheet_1
+  - first:
+      213: -6004976673127612880
+    second: SLIME-idle-SpriteSheet_2
+  - first:
+      213: 3971099350911280880
+    second: SLIME-idle-SpriteSheet_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 52
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spawner_0
+      name: SLIME-idle-SpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1985
-        height: 1325
+        width: 44
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8dbe4afe510a38e50800000000000000
-      internalID: 6810463077589642200
+      spriteID: 1816a5b414f39e44d9e91980fe236118
+      internalID: 931072802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME-idle-SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f5dc0259f1be4f8e92bde4a63f91c
+      internalID: 156669145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME-idle-SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38183ced936ff924d98b21c3e4a235da
+      internalID: -1259528303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME-idle-SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ff4469d497aa4bacb11ad8ee445ef
+      internalID: 144064259
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 168093f282b3e0b47b35f15ace528e67
     internalID: 0
     vertices: []
     indices: 
@@ -147,12 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< HEAD
     nameFileIdTable:
-      Spawner_0: 6810463077589642200
-=======
-    nameFileIdTable: {}
->>>>>>> 6d943f248c7a1e04eb1148b551a6b81578dbd9a3
+      SLIME-idle-SpriteSheet_0: 931072802
+      SLIME-idle-SpriteSheet_1: 156669145
+      SLIME-idle-SpriteSheet_2: -1259528303
+      SLIME-idle-SpriteSheet_3: 144064259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

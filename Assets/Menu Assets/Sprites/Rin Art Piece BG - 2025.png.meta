@@ -147,8 +147,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       Rin Art Piece BG - 2025_0: -7629924963069022656
+=======
+    nameFileIdTable: {}
+>>>>>>> 6d943f248c7a1e04eb1148b551a6b81578dbd9a3
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
