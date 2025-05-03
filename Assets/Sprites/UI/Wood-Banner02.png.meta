@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ab0789e8cf290e849ae97880abcbb221
+guid: 40d7c45f0e7778945a79227b891026b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7474136048979773734
-    second: BG-Trees_0
+      213: 4280733791182598889
+    second: Wood-Banner02_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BG-Trees_0
+      name: Wood-Banner02_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1700
-        height: 1885
+        width: 1625
+        height: 622
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 629816a032779b760800000000000000
-      internalID: 7474136048979773734
+      spriteID: 9e23379e3b8386b30800000000000000
+      internalID: 4280733791182598889
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      BG-Trees_0: 7474136048979773734
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

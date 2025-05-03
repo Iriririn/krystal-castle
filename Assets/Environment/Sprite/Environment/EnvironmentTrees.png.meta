@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: ab0789e8cf290e849ae97880abcbb221
+guid: 4d7232f52fb861a4d9d172e24fb99c08
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7474136048979773734
-    second: BG-Trees_0
+      213: -56671018599245039
+    second: EnvironmentTrees_0
+  - first:
+      213: -2700955892175246807
+    second: EnvironmentTrees_1
+  - first:
+      213: -5385662717229364723
+    second: EnvironmentTrees_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 162
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,23 +119,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BG-Trees_0
+      name: EnvironmentTrees_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1700
-        height: 1885
+        width: 647
+        height: 1143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 629816a032779b760800000000000000
-      internalID: 7474136048979773734
+      spriteID: 11b1553420aa63ff0800000000000000
+      internalID: -56671018599245039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnvironmentTrees_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 655
+        height: 1143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a65e42de6448ad0800000000000000
+      internalID: -2700955892175246807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnvironmentTrees_2
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 0
+        width: 574
+        height: 1143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a8a7b0b484245b0800000000000000
+      internalID: -5385662717229364723
       vertices: []
       indices: 
       edges: []
@@ -138,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0d0926b1732268340b4cdc5abab7591f
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BG-Trees_0: 7474136048979773734
+      EnvironmentTrees_0: -56671018599245039
+      EnvironmentTrees_1: -2700955892175246807
+      EnvironmentTrees_2: -5385662717229364723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

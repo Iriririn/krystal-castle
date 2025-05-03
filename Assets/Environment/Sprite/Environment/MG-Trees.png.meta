@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ab0789e8cf290e849ae97880abcbb221
+guid: 69e0378311a34d948964b2e41599456b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7474136048979773734
-    second: BG-Trees_0
+      213: -4857527743944945034
+    second: MG-Trees_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BG-Trees_0
+      name: MG-Trees_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 1700
-        height: 1885
+        height: 1850
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 629816a032779b760800000000000000
-      internalID: 7474136048979773734
+      spriteID: 6729e8fc048969cb0800000000000000
+      internalID: -4857527743944945034
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      BG-Trees_0: 7474136048979773734
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
