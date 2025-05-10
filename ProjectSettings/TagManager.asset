@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Obstacle
+  - Audio
   layers:
   - Default
   - TransparentFX
@@ -50,6 +52,9 @@ TagManager:
   - name: Trees Ground
     uniqueID: 2505673941
     locked: 0
+  - name: Misc Ground
+    uniqueID: 3486677289
+    locked: 0
   - name: Assets Ground
     uniqueID: 1293902761
     locked: 0
@@ -61,6 +66,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1340335109
+    locked: 0
+  - name: Foreground
+    uniqueID: 71301279
     locked: 0
   m_RenderingLayers:
   - Default
